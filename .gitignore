@@ -1,0 +1,21 @@
+node_modules/
+dist/
+bin/
+pack/
+coverage/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Test output
+scan_results.*
+out.*
+
+# OS files
+.DS_Store
+Thumbs.db
